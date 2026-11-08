@@ -1,0 +1,8 @@
+# 插入插件主行
+- insert:
+    - id: dsh-workspace-icons
+      name: dsh-workspace-icons
+
+# 插件包不携带机器专属配置；配置保存在 ~/.dsh/dsh-workspace-icons/config.json。
+- id: dsh-workspace-icons
+  config: {}
